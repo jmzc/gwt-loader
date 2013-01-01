@@ -178,10 +178,10 @@
 		};
 		
 		/**
-		 * 		Initial function to load:
-		 * 		- xstyles ( only it's required if you load two or more GWT application by this way )
-		 *  	- DWR engine & remote interfaces ( only it's required if you load DWR framework )
-		 *  	- GWT application
+		 *  Initial function to load:
+		 * - styles ( only it's required if you load two or more GWT application by this way )
+		 * - DWR engine & remote interfaces ( only it's required if you load DWR framework )
+		 * - GWT application
 		 */
 		o.init = function ()
 		{
